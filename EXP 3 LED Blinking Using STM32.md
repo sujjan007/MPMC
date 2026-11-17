@@ -1,4 +1,4 @@
-# Automatic Sensor-Based LED Control System Using STM32
+# Automatic Sensor-Based LED Control System 
 
 ## Aim
 
@@ -17,13 +17,13 @@ To interface a digital sensor with an STM32 microcontroller and automatically co
 | 7 | USB cable | 1 |
 
 ## Algorithm
-<img width="380" height="316" alt="image" src="https://github.com/user-attachments/assets/e8c3f25c-8124-4810-a4db-8c2ccc4e85c0" />
 
+<img width="380" height="316" alt="WhatsApp Image 2026-11-04 at 10 02 05 AM" src="https://github.com/user-attachments/assets/f0db674f-d843-4f48-813d-13eb9b08a5ef" />
 
 
 ## Program
+<img width="922" height="602" alt="WhatsApp Image 2026-11-04 at 10 02 05 AM (1)" src="https://github.com/user-attachments/assets/1b9a18a6-70b1-4b06-b184-9e7a63c34051" />
 
-<img width="922" height="602" alt="image" src="https://github.com/user-attachments/assets/2954f4f5-4d7e-415a-85af-2184cd2ae26d" />
 
 
 ## Result
